@@ -1,5 +1,9 @@
 // Hello.java
+<<<<<<< HEAD
 /*Copyright [2023] [Jangseonho]
+=======
+/* Copyright [2023] [carol-feature]
+>>>>>>> 37936277f3781a3889ded622bae530297abaa0bc
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
